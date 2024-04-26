@@ -21,6 +21,11 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+     {  img : './images/SAFADAOOOO.jpeg',
+       name : 'COROA BOY',
+       artist : 'WESLEY SAFADÃO',
+       music : 'music/coroa-boy.mp3'
+    },
     {  img : 'images/Biguinho2024.jpeg',
        name : 'Promocional',
        artist : 'Biguinho',
