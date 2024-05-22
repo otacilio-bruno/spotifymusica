@@ -8,12 +8,12 @@ SpotifyMusica é um projeto web inspirado na popular plataforma de streaming de 
 
 # CSS (Cascading Style Sheets):
 
-# Estilização dos componentes HTML para criar um design atraente e coerente.
+ Estilização dos componentes HTML para criar um design atraente e coerente.
 Uso de flexbox e grid para criar layouts responsivos que se ajustam a diferentes dispositivos.
 Aplicação de animações e transições para melhorar a experiência do usuário.
 JavaScript:
 
-# Implementação da lógica de negócio da aplicação.
+Implementação da lógica de negócio da aplicação.
 Manipulação do DOM (Document Object Model) para criar uma interface dinâmica e interativa.
 Integração com APIs de música (fictícias ou reais) para buscar e exibir informações de músicas, artistas e álbuns.
 Controle das funcionalidades do player de música, como reprodução, pausa e navegação entre faixas.
